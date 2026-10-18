@@ -14,6 +14,7 @@ class Node{
 class LinkedList{
     Node* head = nullptr;
     int size = 0;
+    
     public:
         void display() const;
         void insertFront(int x);
