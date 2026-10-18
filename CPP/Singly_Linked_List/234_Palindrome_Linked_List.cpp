@@ -1,6 +1,6 @@
 // LeetCode 234: Palindrome Linked List
 // Link: https://leetcode.com/problems/palindrome-linked-list/
-// Pattern: // Pattern: Two Pointers (Fast & Slow) -> Reverse Second Half -> Element-by-Element Comparison
+// Pattern: Two Pointers (Fast & Slow) -> Reverse Second Half -> Element-by-Element Comparison
 // Time: O(n)   Space: O(1)
 
 /**
