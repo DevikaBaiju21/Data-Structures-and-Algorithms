@@ -1,3 +1,8 @@
+// LeetCode 206: Reverse Linked List
+// Link: https://leetcode.com/problems/reverse-linked-list/
+// Pattern: Reversal (iterative, 4-step pointer flip)
+// Time: O(n)   Space: O(1)
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
