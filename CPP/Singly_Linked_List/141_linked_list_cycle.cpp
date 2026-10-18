@@ -23,7 +23,6 @@ public:
                 return true;
             }
         }
-        pos = -1;
         return false;
     }
 };
